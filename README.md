@@ -25,7 +25,7 @@
 </body>
 </html>
 
-php code for above html to retrive:
+# php code for above html to retrive:
 
 <?php
 if(isset($_POST['submit'])){
